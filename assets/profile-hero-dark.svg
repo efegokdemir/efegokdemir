@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Efe Gökdemir — Founder at RexCode</title>
+  <desc id="desc">Shopify tools, developer tooling and open source.</desc>
+  <rect width="1200" height="320" rx="18" fill="#171717"/>
+  <g opacity="0.42" stroke="#343434" stroke-width="1">
+    <path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200"/>
+    <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320"/>
+  </g>
+  <rect x="72" y="64" width="5" height="192" rx="2.5" fill="#db9803"/>
+  <g fill="#f4f1ea" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="112" y="126" font-size="48" font-weight="700" letter-spacing="-1.5">Efe Gökdemir</text>
+    <text x="114" y="166" font-size="20" fill="#db9803" font-weight="600">Founder @ RexCode</text>
+    <text x="114" y="216" font-size="15" fill="#c6c2ba" letter-spacing="1.2">SHOPIFY TOOLS  ·  DEVELOPER TOOLING  ·  OPEN SOURCE</text>
+  </g>
+  <g transform="translate(884 72)" fill="none" stroke="#db9803" stroke-width="2" opacity="0.86">
+    <rect width="216" height="176" rx="12"/>
+    <path d="M24 42h92M24 76h146M24 110h118M24 144h72"/>
+    <circle cx="172" cy="42" r="5" fill="#db9803" stroke="none"/>
+    <path d="M146 110l12 12 24-28"/>
+  </g>
+  <text x="908" y="100" fill="#c6c2ba" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1">BUILD / REVIEW / CONTRIBUTE</text>
+</svg>
