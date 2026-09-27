@@ -1,4 +1,10 @@
-# Efe Gökdemir
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
+  <img alt="Efe Gökdemir — Founder at RexCode, building Shopify tools and contributing to open source." src="./assets/profile-hero-light.svg" width="1200">
+</picture>
+
+<br />
 
 **Founder @ [RexCode Digital Ltd](https://www.rexcode.co.uk)**  
 Building Shopify and ecommerce tools, developer workflows, and practical open-source software.
