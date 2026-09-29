@@ -6,11 +6,19 @@
     <path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200"/>
     <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320"/>
   </g>
-  <rect x="72" y="64" width="5" height="192" rx="2.5" fill="#db9803"/>
+  <style>
+    .pulse { animation: pulse 3.2s ease-in-out infinite; transform-origin: 74px 160px; }
+    .cursor { animation: blink 1.2s step-end infinite; }
+    @keyframes pulse { 0%, 100% { opacity: .72; } 50% { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .pulse, .cursor { animation: none; } }
+  </style>
+  <rect class="pulse" x="72" y="64" width="5" height="192" rx="2.5" fill="#db9803"/>
   <g fill="#f4f1ea" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
     <text x="112" y="126" font-size="48" font-weight="700" letter-spacing="-1.5">Efe Gökdemir</text>
     <text x="114" y="166" font-size="20" fill="#db9803" font-weight="600">Founder @ RexCode</text>
     <text x="114" y="216" font-size="15" fill="#c6c2ba" letter-spacing="1.2">SHOPIFY TOOLS  ·  DEVELOPER TOOLING  ·  OPEN SOURCE</text>
+    <rect class="cursor" x="114" y="232" width="8" height="2" fill="#db9803"/>
   </g>
   <g transform="translate(884 72)" fill="none" stroke="#db9803" stroke-width="2" opacity="0.86">
     <rect width="216" height="176" rx="12"/>
