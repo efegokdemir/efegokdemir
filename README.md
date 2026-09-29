@@ -20,6 +20,7 @@ Upstream contributions, separate from the projects I maintain:
 - [Apache Commons Codec #445](https://github.com/apache/commons-codec/pull/445) — rejected malformed Sha2Crypt salt syntax.
 - [Apache Arrow nanoarrow #946](https://github.com/apache/arrow-nanoarrow/pull/946) — validated unaligned offset buffers safely.
 - [Apache Maven Resolver #2163](https://github.com/apache/maven-resolver/pull/2163) — synchronised IPC stream access.
+- [NVIDIA SkillEvaluator #158](https://github.com/NVIDIA/SkillEvaluator/pull/158) — hardened CI workflow guards.
 
 ## Tools I use
 
