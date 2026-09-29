@@ -1,30 +1,78 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Efe Gökdemir — Founder at RexCode</title>
-  <desc id="desc">Shopify tools, developer tooling and open source.</desc>
+  <desc id="desc">Shopify tools, ecommerce systems and open source.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#242424"/>
+      <stop offset="1" stop-color="#1b1b1b"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#db9803" stop-opacity="0"/>
+      <stop offset=".48" stop-color="#db9803" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#db9803" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .signal { animation: travel 5s linear infinite; }
+    .status { animation: breathe 3.6s ease-in-out infinite; transform-origin: 1062px 83px; }
+    @keyframes travel { to { stroke-dashoffset: -120; } }
+    @keyframes breathe { 0%, 100% { opacity: .42; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .signal, .status { animation: none; } }
+  </style>
+
   <rect width="1200" height="320" rx="18" fill="#171717"/>
-  <g opacity="0.42" stroke="#343434" stroke-width="1">
+  <g opacity=".38" stroke="#303030" stroke-width="1">
     <path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200"/>
     <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320"/>
   </g>
-  <style>
-    .pulse { animation: pulse 3.2s ease-in-out infinite; transform-origin: 74px 160px; }
-    .cursor { animation: blink 1.2s step-end infinite; }
-    @keyframes pulse { 0%, 100% { opacity: .72; } 50% { opacity: 1; } }
-    @keyframes blink { 50% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { .pulse, .cursor { animation: none; } }
-  </style>
-  <rect class="pulse" x="72" y="64" width="5" height="192" rx="2.5" fill="#db9803"/>
+
+  <rect x="72" y="66" width="4" height="188" rx="2" fill="#db9803"/>
   <g fill="#f4f1ea" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-    <text x="112" y="126" font-size="48" font-weight="700" letter-spacing="-1.5">Efe Gökdemir</text>
-    <text x="114" y="166" font-size="20" fill="#db9803" font-weight="600">Founder @ RexCode</text>
-    <text x="114" y="216" font-size="15" fill="#c6c2ba" letter-spacing="1.2">SHOPIFY TOOLS  ·  DEVELOPER TOOLING  ·  OPEN SOURCE</text>
-    <rect class="cursor" x="114" y="232" width="8" height="2" fill="#db9803"/>
+    <text x="108" y="130" font-size="48" font-weight="700" letter-spacing="-1.6">Efe Gökdemir</text>
+    <text x="110" y="170" font-size="20" fill="#db9803" font-weight="600">Founder @ RexCode</text>
+    <text x="110" y="214" font-size="14" fill="#bcb8b0" letter-spacing=".65">SHOPIFY TOOLS  ·  ECOMMERCE SYSTEMS  ·  OPEN SOURCE</text>
+    <rect x="110" y="235" width="8" height="2" fill="#db9803"/>
   </g>
-  <g transform="translate(884 72)" fill="none" stroke="#db9803" stroke-width="2" opacity="0.86">
-    <rect width="216" height="176" rx="12"/>
-    <path d="M24 42h92M24 76h146M24 110h118M24 144h72"/>
-    <circle cx="172" cy="42" r="5" fill="#db9803" stroke="none"/>
-    <path d="M146 110l12 12 24-28"/>
+
+  <g transform="translate(764 44)">
+    <path d="M22 185C82 185 82 115 142 115S202 185 262 185" fill="none" stroke="#48433a" stroke-width="1.5"/>
+    <path class="signal" d="M22 185C82 185 82 115 142 115S202 185 262 185" fill="none" stroke="url(#signal)" stroke-width="2" stroke-dasharray="26 94"/>
+    <circle cx="22" cy="185" r="5" fill="#171717" stroke="#db9803" stroke-width="2"/>
+    <circle cx="142" cy="115" r="5" fill="#171717" stroke="#db9803" stroke-width="2"/>
+    <circle cx="262" cy="185" r="5" fill="#171717" stroke="#db9803" stroke-width="2"/>
+
+    <g transform="translate(0 18)">
+      <rect width="176" height="126" rx="10" fill="url(#panel)" stroke="#48433a"/>
+      <path d="M0 28H176" stroke="#48433a"/>
+      <circle cx="18" cy="14" r="3" fill="#db9803"/>
+      <circle cx="29" cy="14" r="3" fill="#6d675d"/>
+      <circle cx="40" cy="14" r="3" fill="#6d675d"/>
+      <g fill="none" stroke-linecap="round" stroke-width="3">
+        <path d="M18 51h30M58 51h22M18 69h18M46 69h52M18 87h42M70 87h28" stroke="#db9803" opacity=".9"/>
+        <path d="M18 105h18M46 105h36M90 105h24" stroke="#8d887f" opacity=".7"/>
+      </g>
+    </g>
+
+    <g transform="translate(184 0)">
+      <rect width="168" height="126" rx="10" fill="url(#panel)" stroke="#48433a"/>
+      <path d="M0 28H168" stroke="#48433a"/>
+      <path d="M18 14h54" stroke="#8d887f" stroke-width="3" stroke-linecap="round"/>
+      <circle class="status" cx="146" cy="14" r="4" fill="#db9803"/>
+      <rect x="18" y="45" width="56" height="55" rx="6" fill="#39352e"/>
+      <path d="M26 89l13-17 12 9 10-13 13 18" fill="none" stroke="#db9803" stroke-width="2"/>
+      <path d="M92 53h54M92 68h38M92 89h46" stroke="#8d887f" stroke-width="3" stroke-linecap="round"/>
+      <path d="M92 106h26" stroke="#db9803" stroke-width="3" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(58 166)">
+      <rect width="228" height="42" rx="21" fill="#1d1d1d" stroke="#48433a"/>
+      <circle cx="24" cy="21" r="6" fill="#db9803"/>
+      <path d="M24 21h58M82 21l22-12M82 21l22 12" fill="none" stroke="#db9803" stroke-width="1.5" opacity=".8"/>
+      <circle cx="118" cy="21" r="4" fill="#6d675d"/>
+      <circle cx="142" cy="21" r="4" fill="#6d675d"/>
+      <circle cx="166" cy="21" r="4" fill="#6d675d"/>
+    </g>
   </g>
-  <text x="908" y="100" fill="#c6c2ba" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1">BUILD / REVIEW / CONTRIBUTE</text>
 </svg>
