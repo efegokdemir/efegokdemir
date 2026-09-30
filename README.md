@@ -6,8 +6,8 @@ I build Shopify tools, ecommerce systems and web products. I also contribute fix
 
 ## Currently building
 
-- **[Shopify App ChangeGuard](https://github.com/efegokdemir/shopify-app-changeguard)** — offline review for Shopify app configuration changes.
-- **[Shopify Upgrade Guard](https://github.com/efegokdemir/shopify-upgrade-guard)** — static analysis for Shopify platform and API upgrade risks.
+- **[Shopify App ChangeGuard](https://github.com/efegokdemir/shopify-app-changeguard)** — offline review for Shopify app configuration changes. [npm](https://www.npmjs.com/package/shopify-app-changeguard) · [Marketplace](https://github.com/marketplace/actions/changeguard-shopify-app-config-review)
+- **[Shopify Upgrade Guard](https://github.com/efegokdemir/shopify-upgrade-guard)** — static analysis for Shopify platform and API upgrade risks. [npm](https://www.npmjs.com/package/shopify-upgrade-guard)
 
 ## Merged upstream work
 
