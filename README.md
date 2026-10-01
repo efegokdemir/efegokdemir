@@ -8,6 +8,7 @@ I build Shopify tools, ecommerce systems and web products. I also contribute fix
 
 - **[Shopify App ChangeGuard](https://github.com/efegokdemir/shopify-app-changeguard)** — offline review for Shopify app configuration changes. [npm](https://www.npmjs.com/package/shopify-app-changeguard) · [Marketplace](https://github.com/marketplace/actions/changeguard-shopify-app-config-review)
 - **[Shopify Upgrade Guard](https://github.com/efegokdemir/shopify-upgrade-guard)** — static analysis for Shopify platform and API upgrade risks. [npm](https://www.npmjs.com/package/shopify-upgrade-guard)
+- **[Shopify Scope Guard](https://github.com/efegokdemir/shopify-scope-guard)** — offline static analysis for Shopify access scopes. [npm](https://www.npmjs.com/package/shopify-scope-guard) · [Marketplace](https://github.com/marketplace/actions/shopify-scope-guard)
 
 ## Merged upstream work
 
