@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  I'm a founder and software builder focused on practical products, useful developer tools and solving real engineering problems.<br>
-  I run RexCode Digital and contribute upstream to open-source projects when I can.
+  Founder and software builder focused on ecommerce technology, developer tooling and practical digital products.<br>
+  Through RexCode Digital Ltd, I build and support software for commerce while contributing upstream fixes to open-source projects.
 </p>
 
 ---
