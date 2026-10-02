@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  Founder and software builder focused on ecommerce technology, developer tooling and practical digital products.<br>
-  Through RexCode Digital Ltd, I build and support software for commerce while contributing upstream fixes to open-source projects.
+  Founder of RexCode Digital Ltd, building ecommerce software, Shopify products and developer tooling for modern commerce.<br>
+  Focused on shipping practical products, solving production engineering problems and contributing upstream to established open-source projects.
 </p>
 
 ---
