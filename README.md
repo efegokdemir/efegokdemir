@@ -5,11 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.rexcode.co.uk"><img src="https://img.shields.io/badge/RexCode-db9803?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RexCode website" /></a>
-  <a href="https://github.com/RexCode-Digital"><img src="https://img.shields.io/badge/RexCode%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="RexCode Digital on GitHub" /></a>
-  <a href="https://www.linkedin.com/in/gokdemirefe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/t7caret/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:efe@rexcode.co.uk"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  I'm a founder and software builder focused on practical products, useful developer tools and solving real engineering problems.<br>
+  I run RexCode Digital and contribute upstream to open-source projects when I can.
 </p>
 
 ---
@@ -38,10 +35,9 @@
 ---
 
 <p align="center">
-  <a href="https://www.rexcode.co.uk">Website</a> ·
-  <a href="https://github.com/RexCode-Digital">RexCode Digital</a> ·
-  <a href="https://github.com/efegokdemir?tab=repositories">Repositories</a> ·
-  <a href="https://www.linkedin.com/in/gokdemirefe">LinkedIn</a> ·
-  <a href="https://www.instagram.com/t7caret/">Instagram</a> ·
-  <a href="mailto:efe@rexcode.co.uk">Email</a>
+  <a href="https://www.rexcode.co.uk"><img src="https://img.shields.io/badge/RexCode-db9803?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RexCode website" /></a>
+  <a href="https://github.com/RexCode-Digital"><img src="https://img.shields.io/badge/RexCode%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="RexCode Digital on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/gokdemirefe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/t7caret/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:efe@rexcode.co.uk"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
