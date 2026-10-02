@@ -1,17 +1,15 @@
+<h1 align="center">Efe Gökdemir</h1>
+
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Efe Gökdemir — Founder & Director, RexCode Digital Ltd" width="100%" />
+  <strong>Founder & Director — <a href="https://github.com/RexCode-Digital">RexCode Digital Ltd</a></strong>
 </p>
 
 <p align="center">
-  <a href="https://www.rexcode.co.uk"><img src="https://img.shields.io/badge/rexcode.co.uk-db9803?style=for-the-badge&logo=shopify&logoColor=white" alt="RexCode website" /></a>
-  <a href="https://github.com/RexCode-Digital"><img src="https://img.shields.io/badge/RexCode%20Digital-181717?style=for-the-badge&logo=github&logoColor=white" alt="RexCode Digital on GitHub" /></a>
+  <a href="https://www.rexcode.co.uk"><img src="https://img.shields.io/badge/RexCode-db9803?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RexCode website" /></a>
+  <a href="https://github.com/RexCode-Digital"><img src="https://img.shields.io/badge/RexCode%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="RexCode Digital on GitHub" /></a>
   <a href="https://www.linkedin.com/in/gokdemirefe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/t7caret/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:efe@rexcode.co.uk"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  Founder & Director of <a href="https://github.com/RexCode-Digital"><strong>RexCode Digital Ltd</strong></a>.<br>
-  I build ecommerce software, Shopify tooling and web products, and contribute fixes upstream to open-source projects.
 </p>
 
 ---
@@ -44,11 +42,6 @@
   <a href="https://github.com/RexCode-Digital">RexCode Digital</a> ·
   <a href="https://github.com/efegokdemir?tab=repositories">Repositories</a> ·
   <a href="https://www.linkedin.com/in/gokdemirefe">LinkedIn</a> ·
+  <a href="https://www.instagram.com/t7caret/">Instagram</a> ·
   <a href="mailto:efe@rexcode.co.uk">Email</a>
 </p>
-
-<p align="center">
-  <sub>Shopify · ecommerce · developer tooling · open source · production systems</sub>
-</p>
-
-<!-- Hero adapted from the CC0 Glassmorphism Hero template in beydemirfurkan/awesome-github-profile and customized for this profile. -->
