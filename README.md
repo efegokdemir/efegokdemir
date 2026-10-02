@@ -36,17 +36,6 @@ Contributions merged into projects maintained by other organisations:
 - **Apache Maven Resolver** — ensured fatal JVM errors from Jetty request content propagate instead of being converted into ordinary failures. [PR #2161](https://github.com/apache/maven-resolver/pull/2161)
 - **Basekick Arc** — hardened compaction cancellation, deadlines, recovery and manifest handling. [PR #922](https://github.com/Basekick-Labs/arc/pull/922)
 
-## Engineering interests
-
-I work across ecommerce and product development, but I also enjoy digging into problems around:
-
-- reliability and production systems
-- developer tooling
-- data handling and storage
-- infrastructure and distributed systems
-- performance and correctness
-- open-source maintenance
-
 ## Elsewhere
 
 [Website](https://www.rexcode.co.uk) ·
