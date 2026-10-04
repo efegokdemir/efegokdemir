@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  Building commerce software, Shopify products and developer tooling at RexCode Digital.<br>
-  Shipping open-source tools and contributing production fixes upstream across established engineering projects.
+  Building ecommerce software, Shopify products and developer tooling at RexCode Digital.<br>
+  Shipping practical open-source products and contributing production engineering fixes upstream.
 </p>
 
 <p align="center">
@@ -23,13 +23,13 @@
 
 | Project | What it is |
 | --- | --- |
-| **[Nami](https://github.com/RexCode-Digital/nami)** | Open-source Shopify theme in active development, focused on calm, flexible and mobile-first commerce. |
+| **[Nami](https://github.com/RexCode-Digital/nami)** | A calm, flexible, mobile-first Shopify theme for real commerce — free and open source. |
 | **[Shopify App ChangeGuard](https://github.com/RexCode-Digital/shopify-app-changeguard)** | Offline review for Shopify app configuration changes. [npm](https://www.npmjs.com/package/shopify-app-changeguard) · [Marketplace](https://github.com/marketplace/actions/changeguard-shopify-app-config-review) |
 | **[Shopify Upgrade Guard](https://github.com/RexCode-Digital/shopify-upgrade-guard)** | Static analysis for Shopify platform and API upgrade risks. [npm](https://www.npmjs.com/package/shopify-upgrade-guard) · [Marketplace](https://github.com/marketplace/actions/shopify-upgrade-guard) |
 | **[Shopify Scope Guard](https://github.com/RexCode-Digital/shopify-scope-guard)** | Offline static analysis for Shopify access scopes and permission evidence. [npm](https://www.npmjs.com/package/shopify-scope-guard) · [Marketplace](https://github.com/marketplace/actions/shopify-scope-guard) |
 | **[Shopify App Review Guard](https://github.com/RexCode-Digital/shopify-app-review-guard)** | Deterministic preflight checks for Shopify App Store submission and production readiness. [npm](https://www.npmjs.com/package/shopify-app-review-guard) · [Marketplace](https://github.com/marketplace/actions/shopify-app-review-guard) |
 
-## Selected upstream work
+## Selected merged upstream work
 
 | Project | Contribution |
 | --- | --- |
