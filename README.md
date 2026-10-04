@@ -40,7 +40,3 @@ Selected merged contributions across database systems, GPU/data tooling and deve
 | **Apache Maven Compiler Plugin** | Ensured annotation processors still run when sources are unchanged instead of being skipped by incremental compilation. **[PR #1136](https://github.com/apache/maven-compiler-plugin/pull/1136)** |
 | **Apache Arrow / nanoarrow** | Made validation of unaligned C Data Interface offset buffers safe. **[PR #946](https://github.com/apache/arrow-nanoarrow/pull/946)** |
 | **Apache Maven Resolver** | Synchronized IPC stream access in **[PR #2163](https://github.com/apache/maven-resolver/pull/2163)** and ensured fatal JVM errors from Jetty request content propagate correctly in **[PR #2161](https://github.com/apache/maven-resolver/pull/2161)** |
-
-<p align="center">
-  <sub>Founder @ RexCode Digital Ltd · Commerce software · Open source</sub>
-</p>
