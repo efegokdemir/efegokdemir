@@ -23,7 +23,6 @@
 
 | Project | What it is |
 | --- | --- |
-| **[Nami](https://github.com/RexCode-Digital/nami)** | A calm, flexible and open-source Shopify theme built for real commerce. |
 | **[Shopify App ChangeGuard](https://github.com/RexCode-Digital/shopify-app-changeguard)** | Offline semantic review for Shopify app configuration changes — CLI + GitHub Action. [npm](https://www.npmjs.com/package/shopify-app-changeguard) · [Marketplace](https://github.com/marketplace/actions/changeguard-shopify-app-config-review) |
 | **[Shopify Upgrade Guard](https://github.com/RexCode-Digital/shopify-upgrade-guard)** | Detects Shopify API upgrade and deprecation risks in CI — offline CLI + GitHub Action. [npm](https://www.npmjs.com/package/shopify-upgrade-guard) · [Marketplace](https://github.com/marketplace/actions/shopify-upgrade-guard) |
 | **[Shopify Scope Guard](https://github.com/RexCode-Digital/shopify-scope-guard)** | Offline static analysis for Shopify access scopes and permission evidence — CLI + GitHub Action. [npm](https://www.npmjs.com/package/shopify-scope-guard) · [Marketplace](https://github.com/marketplace/actions/shopify-scope-guard) |
@@ -37,8 +36,8 @@ Selected merged contributions across database systems, GPU/data tooling and deve
 | --- | --- |
 | **Basekick Arc** | Fixed WAL checkpoint recovery to prevent already-flushed entries being replayed after recovery. **[PR #998](https://github.com/Basekick-Labs/arc/pull/998)** · Improved full-queue ingest flush behaviour in **[PR #997](https://github.com/Basekick-Labs/arc/pull/997)** · Added compaction deadline and cancellation handling in **[PR #922](https://github.com/Basekick-Labs/arc/pull/922)** |
 | **NVIDIA CCCL** | Fixed structured NumPy dtype handling in `cuda.compute` by treating field titles as aliases rather than members. **[PR #11578](https://github.com/NVIDIA/cccl/pull/11578)** |
-| **NVIDIA structured-data-models** | Preserved buffer dtype while loading processor state instead of silently changing the underlying representation. **[PR #1035](https://github.com/NVIDIA/structured-data-models/pull/1035)** |
-| **Apache Arrow ADBC** | Added fallback to the standard driver entrypoint for the C# driver loading path. **[PR #4815](https://github.com/apache/arrow-adbc/pull/4815)** |
+| **NVIDIA NodeWright** | Avoided Kubernetes controller status-update conflicts by patching only the reboot-tracking status delta and preserving concurrent status changes. **[PR #651](https://github.com/NVIDIA/nodewright/pull/651)** |
+| **Apache Maven Compiler Plugin** | Ensured annotation processors still run when sources are unchanged instead of being skipped by incremental compilation. **[PR #1136](https://github.com/apache/maven-compiler-plugin/pull/1136)** |
 | **Apache Arrow / nanoarrow** | Made validation of unaligned C Data Interface offset buffers safe. **[PR #946](https://github.com/apache/arrow-nanoarrow/pull/946)** |
 | **Apache Maven Resolver** | Synchronized IPC stream access in **[PR #2163](https://github.com/apache/maven-resolver/pull/2163)** and ensured fatal JVM errors from Jetty request content propagate correctly in **[PR #2161](https://github.com/apache/maven-resolver/pull/2161)** |
 
