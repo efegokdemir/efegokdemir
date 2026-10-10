@@ -1,42 +1,130 @@
-<h1 align="center">Efe Gökdemir</h1>
 
-<p align="center">
-  <strong>Founder & Director — <a href="https://github.com/RexCode-Digital">RexCode Digital Ltd</a></strong>
-</p>
+<div align="center">
 
-<p align="center">
-  Building commerce software, Shopify developer tooling and open-source products.<br>
-  Contributing production fixes upstream across database systems, developer infrastructure and data tooling.
-</p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:17191D,65:29262A,100:6A4033&height=170&section=header&text=Efe%20G%C3%B6kdemir&fontSize=42&fontColor=FFFFFF&fontAlignY=43&desc=Founder%20%26%20Director%20%E2%80%94%20RexCode%20Digital&descSize=17&descAlignY=69"
+    width="100%"
+    alt="Efe Gökdemir — Founder and Director of RexCode Digital"
+  />
 
-<p align="center">
-  <a href="https://www.rexcode.co.uk"><img src="https://img.shields.io/badge/RexCode-db9803?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RexCode website" /></a>
-  <a href="https://github.com/RexCode-Digital"><img src="https://img.shields.io/badge/RexCode%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="RexCode Digital on GitHub" /></a>
-  <a href="https://www.linkedin.com/in/gokdemirefe"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/t7caret/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:efe@rexcode.co.uk"><img src="https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+  <br />
 
----
+  <a href="https://www.rexcode.co.uk">Website</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/RexCode-Digital">RexCode</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/gokdemirefe">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:efe@rexcode.co.uk">Email</a>
+
+</div>
+
+<br />
 
 ## Building at RexCode
 
-| Project | What it is |
-| --- | --- |
-| **[Shopify App ChangeGuard](https://github.com/RexCode-Digital/shopify-app-changeguard)** | Offline semantic review for Shopify app configuration changes — CLI + GitHub Action. [npm](https://www.npmjs.com/package/shopify-app-changeguard) · [Marketplace](https://github.com/marketplace/actions/changeguard-shopify-app-config-review) |
-| **[Shopify Upgrade Guard](https://github.com/RexCode-Digital/shopify-upgrade-guard)** | Detects Shopify API upgrade and deprecation risks in CI — offline CLI + GitHub Action. [npm](https://www.npmjs.com/package/shopify-upgrade-guard) · [Marketplace](https://github.com/marketplace/actions/shopify-upgrade-guard) |
-| **[Shopify Scope Guard](https://github.com/RexCode-Digital/shopify-scope-guard)** | Offline static analysis for Shopify access scopes and permission evidence — CLI + GitHub Action. [npm](https://www.npmjs.com/package/shopify-scope-guard) · [Marketplace](https://github.com/marketplace/actions/shopify-scope-guard) |
-| **[Shopify App Review Guard](https://github.com/RexCode-Digital/shopify-app-review-guard)** | Deterministic offline preflight checks for Shopify App Store submission and production readiness. [npm](https://www.npmjs.com/package/shopify-app-review-guard) · [Marketplace](https://github.com/marketplace/actions/shopify-app-review-guard) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>
+        <a href="https://github.com/RexCode-Digital/shopify-app-changeguard">ChangeGuard ↗</a>
+      </strong>
+      <br /><br />
+      Review meaningful Shopify app configuration changes before deployment.
+      <br /><br />
+      <a href="https://www.npmjs.com/package/shopify-app-changeguard">npm</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/marketplace/actions/changeguard-shopify-app-config-review">Marketplace</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>
+        <a href="https://github.com/RexCode-Digital/shopify-upgrade-guard">Upgrade Guard ↗</a>
+      </strong>
+      <br /><br />
+      Detect API deprecations and migration risks before upgrading.
+      <br /><br />
+      <a href="https://www.npmjs.com/package/shopify-upgrade-guard">npm</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/marketplace/actions/shopify-upgrade-guard">Marketplace</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>
+        <a href="https://github.com/RexCode-Digital/shopify-scope-guard">Scope Guard ↗</a>
+      </strong>
+      <br /><br />
+      Audit Shopify access scopes against repository evidence.
+      <br /><br />
+      <a href="https://www.npmjs.com/package/shopify-scope-guard">npm</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/marketplace/actions/shopify-scope-guard">Marketplace</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>
+        <a href="https://github.com/RexCode-Digital/shopify-app-review-guard">App Review Guard ↗</a>
+      </strong>
+      <br /><br />
+      Run preflight checks for App Store submission and production readiness.
+      <br /><br />
+      <a href="https://www.npmjs.com/package/shopify-app-review-guard">npm</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/marketplace/actions/shopify-app-review-guard">Marketplace</a>
+    </td>
+  </tr>
+</table>
 
-## Open source
+<br />
 
-Selected merged contributions across database systems, GPU/data tooling and developer infrastructure.
+## Open Source Contributions
 
-| Project | Selected work |
-| --- | --- |
-| **Basekick Arc** | Fixed WAL checkpoint recovery to prevent already-flushed entries being replayed after recovery. **[PR #998](https://github.com/Basekick-Labs/arc/pull/998)** · Improved full-queue ingest flush behaviour in **[PR #997](https://github.com/Basekick-Labs/arc/pull/997)** · Added compaction deadline and cancellation handling in **[PR #922](https://github.com/Basekick-Labs/arc/pull/922)** |
-| **NVIDIA CCCL** | Fixed structured NumPy dtype handling in `cuda.compute` by treating field titles as aliases rather than members. **[PR #11578](https://github.com/NVIDIA/cccl/pull/11578)** |
-| **NVIDIA NodeWright** | Avoided Kubernetes controller status-update conflicts by patching only the reboot-tracking status delta and preserving concurrent status changes. **[PR #651](https://github.com/NVIDIA/nodewright/pull/651)** |
-| **Apache Maven Compiler Plugin** | Ensured annotation processors still run when sources are unchanged instead of being skipped by incremental compilation. **[PR #1136](https://github.com/apache/maven-compiler-plugin/pull/1136)** |
-| **Apache Arrow / nanoarrow** | Made validation of unaligned C Data Interface offset buffers safe. **[PR #946](https://github.com/apache/arrow-nanoarrow/pull/946)** |
-| **Apache Maven Resolver** | Synchronized IPC stream access in **[PR #2163](https://github.com/apache/maven-resolver/pull/2163)** and ensured fatal JVM errors from Jetty request content propagate correctly in **[PR #2161](https://github.com/apache/maven-resolver/pull/2161)** |
+<p>
+  <a href="https://github.com/NVIDIA/cccl/pull/11578">
+    <img src="https://img.shields.io/badge/NVIDIA-24292F?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" />
+  </a>
+  <a href="https://github.com/apache/arrow-java/pull/1309">
+    <img src="https://img.shields.io/badge/Apache-24292F?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
+  </a>
+  <a href="https://github.com/Shopify/checkout-sheet-kit-swift/pull/609">
+    <img src="https://img.shields.io/badge/Shopify-24292F?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+  </a>
+  <a href="https://github.com/open-telemetry/opentelemetry-java/pull/8854">
+    <img src="https://img.shields.io/badge/OpenTelemetry-24292F?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  </a>
+</p>
+
+| Project | Selected contributions |
+| :--- | :--- |
+| **[Basekick Arc](https://github.com/Basekick-Labs/arc)** | Atomic Raft manifest updates and WAL recovery. [#910](https://github.com/Basekick-Labs/arc/pull/910) · [#998](https://github.com/Basekick-Labs/arc/pull/998) |
+| **[NVIDIA CCCL](https://github.com/NVIDIA/cccl)** | Fixed structured NumPy dtype handling in CUDA compute. [#11578](https://github.com/NVIDIA/cccl/pull/11578) |
+| **[Apache Arrow](https://github.com/apache/arrow-java)** | Added dictionary index bounds validation. [#1309](https://github.com/apache/arrow-java/pull/1309) |
+| **[OpenTelemetry Java](https://github.com/open-telemetry/opentelemetry-java)** | Fixed OTLP gRPC retry handling. [#8854](https://github.com/open-telemetry/opentelemetry-java/pull/8854) |
+| **[Apache Maven](https://github.com/apache/maven-compiler-plugin)** | Prevented diagnostic formatting failures from breaking compilation. [#1160](https://github.com/apache/maven-compiler-plugin/pull/1160) |
+| **[Shopify](https://github.com/Shopify/checkout-sheet-kit-swift)** | Fixed Apple Pay sheet presentation failure handling. [#609](https://github.com/Shopify/checkout-sheet-kit-swift/pull/609) |
+
+<details>
+  <summary><strong>More contributions</strong></summary>
+  <br />
+
+  - **[Basekick Arc](https://github.com/Basekick-Labs/arc/pull/982)** — Query cancellation on client disconnect. [#982](https://github.com/Basekick-Labs/arc/pull/982)
+  - **[NVIDIA NodeWright](https://github.com/NVIDIA/nodewright/pull/651)** — Kubernetes status update conflict prevention. [#651](https://github.com/NVIDIA/nodewright/pull/651)
+  - **[NVIDIA NVSentinel](https://github.com/NVIDIA/NVSentinel/pull/1983)** — NIC health monitor completion metrics. [#1983](https://github.com/NVIDIA/NVSentinel/pull/1983)
+  - **[Apache Log4j](https://github.com/apache/logging-log4j2/pull/4358)** — Authentication encoding fallback fix. [#4358](https://github.com/apache/logging-log4j2/pull/4358)
+
+</details>
+
+<a href="https://github.com/search?q=author%3Aefegokdemir+is%3Apr+is%3Amerged&type=pullrequests"><strong>View all merged contributions ↗</strong></a>
+
+<br />
+
+---
+
+<div align="center">
+
+  <strong>RexCode Digital Ltd</strong>
+
+  <br />
+
+  <a href="https://www.rexcode.co.uk">rexcode.co.uk</a>
+
+</div>
