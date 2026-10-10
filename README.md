@@ -1,25 +1,25 @@
+<h1 align="center">Efe Gökdemir</h1>
 
-<div align="center">
+<p align="center">
+  <strong>Founder & Director at <a href="https://github.com/RexCode-Digital">RexCode Digital Ltd</a></strong>
+</p>
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:17191D,65:29262A,100:6A4033&height=170&section=header&text=Efe%20G%C3%B6kdemir&fontSize=42&fontColor=FFFFFF&fontAlignY=43&desc=Founder%20%26%20Director%20%E2%80%94%20RexCode%20Digital&descSize=17&descAlignY=69"
-    width="100%"
-    alt="Efe Gökdemir — Founder and Director of RexCode Digital"
-  />
+<p align="center">
+  Building Shopify developer tooling, commerce software, and contributing upstream to open-source infrastructure.
+</p>
 
-  <br />
-
+<p align="center">
   <a href="https://www.rexcode.co.uk">Website</a>
-  &nbsp; · &nbsp;
+  ·
   <a href="https://github.com/RexCode-Digital">RexCode</a>
-  &nbsp; · &nbsp;
+  ·
   <a href="https://www.linkedin.com/in/gokdemirefe">LinkedIn</a>
-  &nbsp; · &nbsp;
+  ·
   <a href="mailto:efe@rexcode.co.uk">Email</a>
+</p>
 
-</div>
 
-<br />
+---
 
 ## Building at RexCode
 
@@ -27,7 +27,7 @@
   <tr>
     <td width="50%" valign="top">
       <strong>
-        <a href="https://github.com/RexCode-Digital/shopify-app-changeguard">ChangeGuard ↗</a>
+        <a href="https://github.com/RexCode-Digital/shopify-app-changeguard">ChangeGuard</a>
       </strong>
       <br /><br />
       Review meaningful Shopify app configuration changes before deployment.
@@ -38,7 +38,7 @@
     </td>
     <td width="50%" valign="top">
       <strong>
-        <a href="https://github.com/RexCode-Digital/shopify-upgrade-guard">Upgrade Guard ↗</a>
+        <a href="https://github.com/RexCode-Digital/shopify-upgrade-guard">Upgrade Guard</a>
       </strong>
       <br /><br />
       Detect API deprecations and migration risks before upgrading.
@@ -51,7 +51,7 @@
   <tr>
     <td width="50%" valign="top">
       <strong>
-        <a href="https://github.com/RexCode-Digital/shopify-scope-guard">Scope Guard ↗</a>
+        <a href="https://github.com/RexCode-Digital/shopify-scope-guard">Scope Guard</a>
       </strong>
       <br /><br />
       Audit Shopify access scopes against repository evidence.
@@ -62,7 +62,7 @@
     </td>
     <td width="50%" valign="top">
       <strong>
-        <a href="https://github.com/RexCode-Digital/shopify-app-review-guard">App Review Guard ↗</a>
+        <a href="https://github.com/RexCode-Digital/shopify-app-review-guard">App Review Guard</a>
       </strong>
       <br /><br />
       Run preflight checks for App Store submission and production readiness.
@@ -104,27 +104,32 @@
 
 <details>
   <summary><strong>More contributions</strong></summary>
+
   <br />
 
-  - **[Basekick Arc](https://github.com/Basekick-Labs/arc/pull/982)** — Query cancellation on client disconnect. [#982](https://github.com/Basekick-Labs/arc/pull/982)
-  - **[NVIDIA NodeWright](https://github.com/NVIDIA/nodewright/pull/651)** — Kubernetes status update conflict prevention. [#651](https://github.com/NVIDIA/nodewright/pull/651)
-  - **[NVIDIA NVSentinel](https://github.com/NVIDIA/NVSentinel/pull/1983)** — NIC health monitor completion metrics. [#1983](https://github.com/NVIDIA/NVSentinel/pull/1983)
-  - **[Apache Log4j](https://github.com/apache/logging-log4j2/pull/4358)** — Authentication encoding fallback fix. [#4358](https://github.com/apache/logging-log4j2/pull/4358)
+  <ul>
+    <li>
+      <strong><a href="https://github.com/Basekick-Labs/arc">Basekick Arc</a></strong> — Query cancellation on client disconnect.
+      <a href="https://github.com/Basekick-Labs/arc/pull/982">#982</a>
+    </li>
+    <li>
+      <strong><a href="https://github.com/NVIDIA/nodewright">NVIDIA NodeWright</a></strong> — Kubernetes status update conflict prevention.
+      <a href="https://github.com/NVIDIA/nodewright/pull/651">#651</a>
+    </li>
+    <li>
+      <strong><a href="https://github.com/NVIDIA/NVSentinel">NVIDIA NVSentinel</a></strong> — NIC health monitor completion metrics.
+      <a href="https://github.com/NVIDIA/NVSentinel/pull/1983">#1983</a>
+    </li>
+    <li>
+      <strong><a href="https://github.com/apache/logging-log4j2">Apache Log4j</a></strong> — Authentication encoding fallback fix.
+      <a href="https://github.com/apache/logging-log4j2/pull/4358">#4358</a>
+    </li>
+  </ul>
 
 </details>
 
-<a href="https://github.com/search?q=author%3Aefegokdemir+is%3Apr+is%3Amerged&type=pullrequests"><strong>View all merged contributions ↗</strong></a>
-
-<br />
-
----
-
-<div align="center">
-
-  <strong>RexCode Digital Ltd</strong>
-
-  <br />
-
-  <a href="https://www.rexcode.co.uk">rexcode.co.uk</a>
-
-</div>
+<p>
+  <a href="https://github.com/search?q=author%3Aefegokdemir+is%3Apr+is%3Amerged&type=pullrequests">
+    <strong>View all merged contributions →</strong>
+  </a>
+</p>
