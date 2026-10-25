@@ -93,14 +93,18 @@
   </a>
 </p>
 
-| Project | Selected contributions |
+The changes below were **merged upstream** after repository review. Each pull request links to the actual code, tests, and discussion; these are contributions to the respective projects, not RexCode-owned code.
+
+| Upstream project | Selected engineering contribution |
 | :--- | :--- |
-| **[Basekick Arc](https://github.com/Basekick-Labs/arc)** | Atomic Raft manifest updates and WAL recovery. [#910](https://github.com/Basekick-Labs/arc/pull/910) · [#998](https://github.com/Basekick-Labs/arc/pull/998) |
-| **[NVIDIA CCCL](https://github.com/NVIDIA/cccl)** | Fixed structured NumPy dtype handling in CUDA compute. [#11578](https://github.com/NVIDIA/cccl/pull/11578) |
-| **[Apache Arrow](https://github.com/apache/arrow-java)** | Added dictionary index bounds validation. [#1309](https://github.com/apache/arrow-java/pull/1309) |
-| **[OpenTelemetry Java](https://github.com/open-telemetry/opentelemetry-java)** | Fixed OTLP gRPC retry handling. [#8854](https://github.com/open-telemetry/opentelemetry-java/pull/8854) |
-| **[Apache Maven](https://github.com/apache/maven-compiler-plugin)** | Prevented diagnostic formatting failures from breaking compilation. [#1160](https://github.com/apache/maven-compiler-plugin/pull/1160) |
-| **[Shopify](https://github.com/Shopify/checkout-sheet-kit-swift)** | Fixed Apple Pay sheet presentation failure handling. [#609](https://github.com/Shopify/checkout-sheet-kit-swift/pull/609) |
+| **[OpenTelemetry Java](https://github.com/open-telemetry/opentelemetry-java)** | Corrected retry decisions when gRPC status is returned in HTTP/2 trailers, including regression coverage for status handling and terminal failures. [#8854](https://github.com/open-telemetry/opentelemetry-java/pull/8854) |
+| **[Apache Arrow Java](https://github.com/apache/arrow-java)** | Prevented invalid dictionary indices, including negative, out-of-range, and 64-bit truncation cases, with regression tests. [#1309](https://github.com/apache/arrow-java/pull/1309) |
+| **[Apache Maven Resolver](https://github.com/apache/maven-resolver)** | Preserved transitive dependency discovery for version-range candidates; the added regressions reproduced the pre-fix failure. [#2208](https://github.com/apache/maven-resolver/pull/2208) |
+| **[Basekick Arc](https://github.com/Basekick-Labs/arc)** | Improved atomic visibility of Raft manifest updates and WAL checkpoint recovery. [#910](https://github.com/Basekick-Labs/arc/pull/910) · [#998](https://github.com/Basekick-Labs/arc/pull/998) |
+| **[NVIDIA CCCL](https://github.com/NVIDIA/cccl)** | Corrected NumPy structured-field handling in CUDA compute when fields include titles. [#11578](https://github.com/NVIDIA/cccl/pull/11578) |
+| **[NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector)** | Hardened TypeScript declaration-file classification to avoid trusting filenames and overlooking executable content. [#601](https://github.com/NVIDIA/SkillSpector/pull/601) |
+| **[Apache Log4j](https://github.com/apache/logging-log4j2)** | Preserved HTTP log delivery when a dynamically evaluated header contains an invalid value. [#4360](https://github.com/apache/logging-log4j2/pull/4360) |
+| **[Shopify Checkout Sheet Kit](https://github.com/Shopify/checkout-sheet-kit-swift)** | Improved Apple Pay sheet-presentation failure handling. [#609](https://github.com/Shopify/checkout-sheet-kit-swift/pull/609) |
 
 <details>
   <summary><strong>More contributions</strong></summary>
