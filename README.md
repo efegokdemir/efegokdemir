@@ -1,8 +1,6 @@
-# Efe Gökdemir
+# Founder of RexCode
 
-**Founder & Director · RexCode Digital Ltd**
-
-Efe Gökdemir is the founder and director of RexCode Digital Ltd, a Shopify agency and software company. His work spans commerce engineering, product development and contributions to open-source infrastructure.
+Shopify development, commerce software and open-source engineering.
 
 ### Current focus
 
