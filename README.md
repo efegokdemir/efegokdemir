@@ -2,7 +2,7 @@
 
 Shopify development, commerce software and open-source engineering.
 
-### Current focus
+### Projects
 
 **[RexCode](https://www.rexcode.co.uk)**  
 Shopify development, migrations and ongoing optimisation.
